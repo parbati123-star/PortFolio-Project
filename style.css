@@ -1,0 +1,38 @@
+.navbar{
+    display: flex;
+    background-color: aqua;
+    justify-content: center;
+    height: 3rem;
+}
+h4{
+    
+    margin-left: 5rem; 
+}
+h3{
+    margin-right: 30rem;
+}
+.navbar-second{
+    display: flex;
+    margin-top: 6rem;
+    justify-content: center;
+    
+}
+.first{
+    margin-top: 18rem;
+}
+a{
+    color: rgb(255, 145, 0);
+}
+.navbar-contents{
+    background-color: rgb(22, 18, 18);
+}
+p,.port{
+    color: white;
+    
+}
+.port{
+    font-size: 1.6rem;
+}
+.primary{
+    line-height: 0.2px;
+}
